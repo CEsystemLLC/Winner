@@ -15,7 +15,7 @@ namespace Winner
     ///  2.  .\winner.exe --in abc.txt --out xyz.txt
     ///
     ///  Uses ConsoleApp .net Core application; .net5
-    ///
+    ///  Replace Main (Program.cs) with this file;
     /// </summary>
     class Winner
     {
